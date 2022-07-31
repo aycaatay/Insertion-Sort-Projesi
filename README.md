@@ -1,7 +1,7 @@
 # Insertion-Sort-Projesi
-[22,27,16,2,18,6] -> Insertion Sort
-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
-ÇÖZÜM: En küçük eleman bulunur (2) ve başa yazılır, 22 ile 2 sayıları yer değiştirir.
+# [22,27,16,2,18,6] -> Insertion Sort
+# Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+# ÇÖZÜM: En küçük eleman bulunur (2) ve başa yazılır, 22 ile 2 sayıları yer değiştirir.
 [2,27,16,22,18,6] sonrasında 2.satıra geçilir ve 2. en küçük sayıya bakılır(6) ve yer değiştirir. 
 [2,6,16,22,18,27] 
 [2,6,16,18,22,27]
